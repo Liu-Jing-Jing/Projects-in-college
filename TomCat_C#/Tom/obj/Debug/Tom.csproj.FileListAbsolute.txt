@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Tom\Tom\bin\Debug\Tom.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Tom\Tom\bin\Debug\Tom.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Tom\Tom\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Tom\Tom\obj\Debug\Tom.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Tom\Tom\obj\Debug\Tom.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Tom\Tom\obj\Debug\Tom.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Tom\Tom\obj\Debug\Tom.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Tom\Tom\obj\Debug\Tom.pdb
+F:\Tom猫项目\Tom\obj\Debug\Tom.exe
+F:\Tom猫项目\Tom\obj\Debug\Tom.pdb

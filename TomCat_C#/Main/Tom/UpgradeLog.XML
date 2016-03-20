@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Tom">
+</Property><Property Name="解决方案文件" Value="C:\Documents and Settings\Administrator\桌面\Tom\Tom.sln">
+</Property><Property Name="用户选项文件" Value="C:\Documents and Settings\Administrator\桌面\Tom\Tom.suo">
+</Property><Property Name="Date" Value="2015年6月15日星期一">
+</Property><Property Name="Time" Value="10:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Tom.sln" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Tom.suo" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom.suo">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Tom.csproj" Description="项目文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Tom.csproj">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Form1.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Form1.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Program.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Program.cs">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Properties\Settings.settings" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Resources\angry_0.jpg" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Resources\angry_0.jpg">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Form1.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Properties\Resources.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\Tom\Backup\Tom\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Tom.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Tom" Source="Tom\Tom.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Tom.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Tom.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Tom" Source="Tom\Tom.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
