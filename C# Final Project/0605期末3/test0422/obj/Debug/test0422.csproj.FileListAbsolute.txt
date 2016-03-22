@@ -1,0 +1,35 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\test0422\test0422\bin\Debug\test0422.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\test0422\test0422\bin\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\test0422\test0422\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\test0422\test0422\obj\Debug\test0422.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\test0422\test0422\obj\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\桌面\期末作业\test0422\obj\Debug\test0422.exe
+C:\Documents and Settings\Administrator\桌面\期末作业\test0422\obj\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\桌面\期末作业\test0422\bin\Debug\test0422.exe
+C:\Documents and Settings\Administrator\桌面\期末作业\test0422\bin\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\桌面\期末作业\test0422\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C Sharp\0525最新版期末作业\test0422\bin\Debug\test0422.exe
+C:\Documents and Settings\Administrator\桌面\C Sharp\0525最新版期末作业\test0422\bin\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\桌面\C Sharp\0525最新版期末作业\test0422\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C Sharp\0525最新版期末作业\test0422\obj\Debug\test0422.exe
+C:\Documents and Settings\Administrator\桌面\C Sharp\0525最新版期末作业\test0422\obj\Debug\test0422.pdb
+D:\我的文档\0526最新版期末作业\test0422\bin\Debug\test0422.exe
+D:\我的文档\0526最新版期末作业\test0422\bin\Debug\test0422.pdb
+D:\我的文档\0526最新版期末作业\test0422\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\0526最新版期末作业\test0422\obj\Debug\test0422.exe
+D:\我的文档\0526最新版期末作业\test0422\obj\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\My Documents\0602最新版期末作业\test0422\bin\Debug\test0422.exe
+C:\Documents and Settings\Administrator\My Documents\0602最新版期末作业\test0422\bin\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\My Documents\0602最新版期末作业\test0422\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\0602最新版期末作业\test0422\obj\Debug\test0422.exe
+C:\Documents and Settings\Administrator\My Documents\0602最新版期末作业\test0422\obj\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\My Documents\0605期末\test0422\obj\Debug\test0422.exe
+C:\Documents and Settings\Administrator\My Documents\0605期末\test0422\obj\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\My Documents\0605期末\test0422\bin\Debug\test0422.exe
+C:\Documents and Settings\Administrator\My Documents\0605期末\test0422\bin\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\My Documents\0605期末\test0422\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\0605期末\test0422\bin\Debug\test0422.exe
+C:\Documents and Settings\Administrator\桌面\0605期末\test0422\bin\Debug\test0422.pdb
+C:\Documents and Settings\Administrator\桌面\0605期末\test0422\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\0605期末\test0422\obj\Debug\test0422.exe
+C:\Documents and Settings\Administrator\桌面\0605期末\test0422\obj\Debug\test0422.pdb

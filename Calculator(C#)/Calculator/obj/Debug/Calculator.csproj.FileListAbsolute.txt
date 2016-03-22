@@ -1,0 +1,11 @@
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.TomCat.resources
+D:\我的文档\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.WeiboDEMO.resources
