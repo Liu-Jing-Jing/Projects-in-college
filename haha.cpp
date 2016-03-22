@@ -1,20 +1,20 @@
-#define ίχίχίχ main
-#define ίχίχ int
-#define ίχ (
-#define ίχίχΞΨ )
-#define ίχίχίχίχ {
-#define ίχΞΨίχ }
-#define ίχΞΨίχΞΨίχ printf
-#define ΞΨ "\n"
-#define ίχΞΨίχΞΨ return
-#define ΞΨίχ 0
-#define ίχΞΨ ;
+#define ε–µε–µε–µ main
+#define ε–µε–µ int
+#define ε–µ (
+#define ε–µε–µε‘ )
+#define ε–µε–µε–µε–µ {
+#define ε–µε‘ε–µ }
+#define ε–µε‘ε–µε‘ε–µ printf
+#define ε‘ "\n"
+#define ε–µε‘ε–µε‘ return
+#define ε‘ε–µ 0
+#define ε–µε‘ ;
 #define ssss getchar
 #include <stdio.h>
 
-ίχίχ ίχίχίχ ίχ ίχίχΞΨ
-ίχίχίχίχ
-ίχΞΨίχΞΨίχ ίχ "ίχίχίχ! " ΞΨ ίχίχΞΨ ίχΞΨ
-ssss ίχ  ίχίχΞΨ ίχΞΨ
-ίχΞΨίχΞΨ ΞΨίχ ίχΞΨ
-ίχΞΨίχ
+ε–µε–µ ε–µε–µε–µ ε–µ ε–µε–µε‘
+ε–µε–µε–µε–µ
+ε–µε‘ε–µε‘ε–µ ε–µ "ε–µε–µε–µ! " ε‘ ε–µε–µε‘ ε–µε‘
+ssss ε–µ  ε–µε–µε‘ ε–µε‘
+ε–µε‘ε–µε‘ ε‘ε–µ ε–µε‘
+ε–µε‘ε–µ
