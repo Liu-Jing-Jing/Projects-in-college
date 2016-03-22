@@ -1,0 +1,45 @@
+C:\Documents and Settings\Administrator\My Documents\0603最新版期末作业\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\My Documents\0603最新版期末作业\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\My Documents\0603最新版期末作业\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\0603最新版期末作业\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\0603最新版期末作业\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\0603最新版期末作业\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\0603最新版期末作业\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\0603最新版期末作业\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\My Documents\0603最新版期末作业\Calculator\obj\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\My Documents\0605期末\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\0605期末\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\0605期末\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\0605期末\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\0605期末\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\0605期末\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\My Documents\0605期末\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\My Documents\0605期末\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\My Documents\0605期末\Calculator\obj\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\桌面\0605期末\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\桌面\0605期末\Calculator\obj\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\桌面\0605期末\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\桌面\0605期末\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\桌面\0605期末\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\0605期末\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Documents and Settings\Administrator\桌面\0605期末\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Documents and Settings\Administrator\桌面\0605期末\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\0605期末\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\0605期末2\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\桌面\0605期末2\Calculator\obj\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\桌面\0605期末2\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\Administrator\桌面\0605期末2\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\Administrator\桌面\0605期末2\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\0605期末2\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Documents and Settings\Administrator\桌面\0605期末2\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Documents and Settings\Administrator\桌面\0605期末2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\0605期末2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\C#期末作业\0605期末3\Calculator\obj\Debug\Calculator.exe
+F:\C#期末作业\0605期末3\Calculator\obj\Debug\Calculator.pdb
+F:\C#期末作业\0605期末3\Calculator\bin\Debug\Calculator.exe
+F:\C#期末作业\0605期末3\Calculator\bin\Debug\Calculator.pdb
+F:\C#期末作业\0605期末3\Calculator\obj\Debug\ResolveAssemblyReference.cache
+F:\C#期末作业\0605期末3\Calculator\obj\Debug\Calculator.Form1.resources
+F:\C#期末作业\0605期末3\Calculator\obj\Debug\Calculator.Form2.resources
+F:\C#期末作业\0605期末3\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\C#期末作业\0605期末3\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
